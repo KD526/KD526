@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Davis...
-- 👀 I’m interested in Web3 smart contract development and blockchain security 
-- 🌱 I’m currently learning on building Defi Dapps, NFT marketplace projects
-- 💞️ I’m looking to collaborate on samrt contract projects and auditing
+- 👀 I’m involved in Web3 smart contract development and blockchain security 
+- 🌱 I’m currently building DeFi projects with solidity
+- 💞️ I’m looking to collaborate on smart contract projects and auditing
 - 📫  Reach me @ davisthoyah@gmail.com
 
 <!---
